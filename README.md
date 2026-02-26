@@ -107,6 +107,7 @@ configs/
   common/                 # Dotfiles shared across platforms
   mac/                    # macOS-specific dotfiles
   linux/                  # Linux-specific dotfiles
+editors/                  # VS Code / Cursor settings, keybindings, and extensions list
 tools/                    # Custom scripts (tms, cht) installed to ~/bin
 ```
 
